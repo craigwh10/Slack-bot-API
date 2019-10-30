@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot-api",
+  "version": "1.0.0",
+  "description": "Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigwh10/slack-bot-api.git"
+  },
+  "author": "Craig White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigwh10/slack-bot-api/issues"
+  },
+  "homepage": "https://github.com/craigwh10/slack-bot-api#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "slackbots": "^1.2.0"
+  }
+}
